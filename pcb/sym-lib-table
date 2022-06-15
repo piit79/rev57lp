@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "keeblib")(type "Legacy")(uri "${KIPRJMOD}/../../../keeblib.pretty/keebio.lib")(options "")(descr "")(disabled))
+  (lib (name "keebMCU")(type "Legacy")(uri "${KIPRJMOD}/../../../keebMCU.pretty/keebMCU.lib")(options "")(descr "")(disabled))
+  (lib (name "Lily58_Pro")(type "Legacy")(uri "C:/Users/FrederikBorreJacobse/GitKeyboard/Lily58_Pro.lib")(options "")(descr ""))
+  (lib (name "Lily58_Pro-cache")(type "Legacy")(uri "C:/Users/FrederikBorreJacobse/GitKeyboard/Lily58_Pro-cache.lib")(options "")(descr ""))
+  (lib (name "Lily58_Pro-rescue")(type "Legacy")(uri "C:/Users/FrederikBorreJacobse/GitKeyboard/Lily58_Pro-rescue.lib")(options "")(descr ""))
+  (lib (name "horizon-components")(type "Legacy")(uri "C:/Users/FrederikBorreJacobse/GitKeyboard/Symbols/horizon-components/horizon-components.lib")(options "")(descr ""))
+)
