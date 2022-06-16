@@ -3,4 +3,5 @@
   (lib (name "keebMCU")(type "KiCad")(uri "${KIPRJMOD}/../../../keebMCU.pretty")(options "")(descr ""))
   (lib (name "General_footprints")(type "KiCad")(uri "${KIPRJMOD}/General_footprints.pretty")(options "")(descr ""))
   (lib (name "keeblib")(type "KiCad")(uri "${KIPRJMOD}/keeblib.pretty")(options "")(descr ""))
+  (lib (name "42keebs")(type "KiCad")(uri "${KIPRJMOD}/42keebs-kicad/footprints")(options "")(descr ""))
 )
