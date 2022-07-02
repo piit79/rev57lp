@@ -1,5 +1,3 @@
 (sym_lib_table
-  (lib (name "keeblib")(type "Legacy")(uri "${KIPRJMOD}/../../../keeblib.pretty/keebio.lib")(options "")(descr "")(disabled))
-  (lib (name "keebMCU")(type "Legacy")(uri "${KIPRJMOD}/../../../keebMCU.pretty/keebMCU.lib")(options "")(descr "")(disabled))
   (lib (name "42keebs")(type "KiCad")(uri "${KIPRJMOD}/42keebs-kicad/symbols/42Keebs.kicad_sym")(options "")(descr ""))
 )
