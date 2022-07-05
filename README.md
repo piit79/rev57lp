@@ -14,4 +14,8 @@ Main differences from Reviung41:
 * Added two more bottom row keys
 * Added one extra middle key
 * Uses hotswap sockets for Kailh Choc V1 switches with Choc spacing (18x17 mm)
-* Added a two-pin footprint and a JST-PH socket for the battery
+
+Further modifications made by 42. Keebs:
+
+* 1.5u space key instead of a 2u with a Choc stabiliser, because nobody likes stabs
+* Added power switch and battery connectors (two-pin + JST-PH)
