@@ -1,4 +1,3 @@
 (fp_lib_table
-  (lib (name "keeblib")(type "KiCad")(uri "${KIPRJMOD}/keeblib.pretty")(options "")(descr ""))
   (lib (name "42keebs")(type "KiCad")(uri "${KIPRJMOD}/42keebs-kicad/footprints")(options "")(descr ""))
 )
