@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.75,
-          "height": 1.75,
-          "width": 1.2
+          "drill": 0.4,
+          "height": 1.5,
+          "width": 1.8
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -55,11 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "silk_over_copper|120981640|29962449|2956602f-cb09-46af-913f-3cefda5d9654|40324ae7-c608-4400-bcde-81c50bda0b22",
-        "silk_over_copper|120981640|29962449|c8935772-85a1-48ee-8c5b-c087126617d1|40324ae7-c608-4400-bcde-81c50bda0b22",
-        "silk_over_copper|192040938|79930294|29ffce69-a4d6-42bf-9dc9-fad6384e6d69|371fd020-5c53-4742-999a-f94e86ea49d3"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2

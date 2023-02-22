@@ -1,10 +1,12 @@
-# Reviung-ish56 LP
+# Rev57LP
 
-![Reviung-ish56 LP PCB](https://github.com/piit79/reviung_ish_56_lp/raw/main/pcb/reviung_ish_56_lp.png)
+(Formerly known by no-one as Reviung-ish56 LP :)
+
+![Rev57LP PCB](https://github.com/piit79/rev57lp/raw/main/pcb/rev57lp.png)
 
 **WARNING: This is a work in progress. The PCB design has not been verified yet.**
 
-Low-profile 56-key ergonomic keyboard inspired by Reviung41. Uses hotswap sockets for Kailh Choc V1 (PG1350) switches.
+Low-profile 57-key ergonomic keyboard inspired by Reviung41. Uses hotswap sockets for Kailh Choc V1 (PG1350) switches.
 
 Based on [reviung-ish](https://github.com/fredbabe/reviung_ish_pcb) by oddkeeb.
 
@@ -17,5 +19,6 @@ Main differences from Reviung41:
 
 Further modifications made by 42. Keebs:
 
-* 1.5u space key instead of a 2u with a Choc stabiliser, because nobody likes stabs
-* Added power switch and battery connectors (two-pin + JST-PH)
+* 2x 1u space key instead of a 2u with a Choc stabiliser, because nobody likes stabs
+* Slightly increased angle of the sides from 13° to 15°
+* Added power switch and a battery footprint
