@@ -22,3 +22,5 @@ Further modifications made by 42. Keebs:
 * 2x 1u space key instead of a 2u with a Choc stabiliser, because nobody likes stabs
 * Slightly increased angle of the sides from 13° to 15°
 * Added power switch and a battery footprint
+* Mounting holes changed to through holes for 3 mm standoffs for use with a switch plate and a bottom plate
+* Dropped the middle matrix column to free up one I/O pin

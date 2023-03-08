@@ -1,4 +1,4 @@
-20919730066875994
+20911173622491026
 42keebs
 42Keebs-icon-10mm-Mask
 
@@ -46,8 +46,15 @@ CNC_Encoder
 
 
 0
+3
+1
+42keebs
+DFN-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm
+8-Lead Plastic Dual Flat, No Lead Package (8MA2) - 2x3x0.6 mm Body (http://ww1.microchip.com/downloads/en/DeviceDoc/20005010F.pdf)
+DFN 0.5
 0
-0
+9
+9
 42keebs
 D_DO-35_SOD27_P5.08mm_Horizontal
 Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
@@ -77,6 +84,34 @@ Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
 2
 2
 42keebs
+Diode_THT_SOD123F
+Diode, DO-41, SOD81, Horizontal, RM 10mm,
+Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
+0
+8
+2
+42keebs
+Frood_PinHeader_2x13+5_P2.54mm_Dual
+Through hole straight pin header, 1x12, 2.54mm pitch, single row
+Through hole pin header THT 1x12 2.54mm single row
+0
+62
+31
+42keebs
+Frood_PinHeader_2x13+5_P2.54mm_Labels_Top
+Through hole straight pin header, 1x12, 2.54mm pitch, single row
+Through hole pin header THT 1x12 2.54mm single row
+0
+31
+31
+42keebs
+Frood_PinHeader_2x13+5_P2.54mm_No_Labels
+Through hole straight pin header, 1x12, 2.54mm pitch, single row
+Through hole pin header THT 1x12 2.54mm single row
+0
+31
+31
+42keebs
 Kailh_MX_Socket-2u-swapped-pads-reversed-stabilizer
 
 
@@ -92,6 +127,13 @@ Kailh_MX_Socket-plus-EC11-encoder
 6
 42keebs
 Kailh_MX_Socket-swapped-pads
+
+
+0
+2
+2
+42keebs
+Kailh_MX_Socket-swapped-pads-RGB
 
 
 0
@@ -182,12 +224,89 @@ MX-Choc-2U-ReversedStabilizers-opposite-NoLED
 4
 2
 42keebs
+Molex-216990_GCT-USB45xx_HRO-TYPE-C-31-M-13x
+
+
+0
+20
+17
+42keebs
+Molex-216990_GCT-USB45xx_HRO-TYPE-C-31-M-13x-PiMicro
+
+
+0
+16
+13
+42keebs
+MountingHole_3.6mm_For_Standoff
+Mounting Hole 3.5mm
+mounting hole 3.5mm
+0
+1
+1
+42keebs
+MountingThroughHole_3.8mm_For_3mm_Standoff
+Mounting Hole 3.5mm
+mounting hole 3.5mm
+0
+1
+1
+42keebs
+OLED_v2.1
+Connecteur 6 pins
+CONN DEV
+0
+4
+4
+42keebs
 PJ-320A
 
 
 0
 4
 4
+42keebs
+PinHeader_1x05_P2.54mm_Vertical_Plain
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+42keebs
+PinHeader_1x12_P2.54mm_Vertical_Plain
+Through hole straight pin header, 1x12, 2.54mm pitch, single row
+Through hole pin header THT 1x12 2.54mm single row
+0
+12
+12
+42keebs
+PinHeader_1x13_P2.54mm_Vertical_Plain
+Through hole straight pin header, 1x12, 2.54mm pitch, single row
+Through hole pin header THT 1x12 2.54mm single row
+0
+13
+13
+42keebs
+PinHeader_1x13_P2.54mm_Vertical_ProMicro-Left
+Through hole straight pin header, 1x12, 2.54mm pitch, single row
+Through hole pin header THT 1x12 2.54mm single row
+0
+13
+13
+42keebs
+PinHeader_1x13_P2.54mm_Vertical_ProMicro-Right
+Through hole straight pin header, 1x12, 2.54mm pitch, single row
+Through hole pin header THT 1x12 2.54mm single row
+0
+13
+13
+42keebs
+PinHeader_2x13+5_P2.54mm_Vertical_Elite-C
+Through hole straight pin header, 1x12, 2.54mm pitch, single row
+Through hole pin header THT 1x12 2.54mm single row
+0
+31
+31
 42keebs
 Powered_by_QMK-20mm-Mask
 
@@ -266,12 +385,33 @@ rotary encoder
 7
 6
 42keebs
+TYPE-C-31-M-14
+Korean Hroparts Elec, Power only USB connector supporting up to 3A
+
+0
+20
+17
+42keebs
+TYPE-C-31-M-14-PiMicro
+Korean Hroparts Elec, Power only USB connector supporting up to 3A
+
+0
+16
+13
+42keebs
 USB_C_GCT_USB4085-offset-pads
 
 
 0
 20
 17
+42keebs
+USON-8_4x3mm_P0.8mm
+WSON, 8 Pin (https://www.ti.com/lit/ds/symlink/lp2987.pdf#page=26), generated with kicad-footprint-generator ipc_noLead_generator.py
+WSON NoLead
+0
+12
+9
 42keebs
 YS-SK6812MINI-E
 
@@ -87436,185 +87576,3 @@ varistor
 0
 2
 2
-keeblib
-CherryMX_ChocV2_1u
-
-
-0
-5
-2
-keeblib
-ChocV1_V2_Hotswap
-
-
-0
-3
-2
-keeblib
-ChocV1_V2_Hotswap_1.5u
-
-
-0
-3
-2
-keeblib
-D_MiniMELF_bsides
-Diode Mini-MELF (SOD-80)
-Diode Mini-MELF (SOD-80)
-0
-2
-2
-keeblib
-Kailh-PG1350-1.5u
-
-
-0
-4
-4
-keeblib
-Kailh-PG1350-1.25u
-
-
-0
-4
-4
-keeblib
-Kailh-PG1350-1u
-
-
-0
-4
-4
-keeblib
-Kailh-PG1350-2u
-
-
-0
-4
-4
-keeblib
-Kailh-PG1350-2uStabilizer
-
-
-0
-0
-0
-keeblib
-Kailh-PG1350-2uStabilizer_socket
-
-
-0
-2
-2
-keeblib
-KailhChoc-1U
-
-
-0
-4
-4
-keeblib
-Kailh_socket_PG1350
-Kailh "Choc" PG1350 keyswitch socket mount
-kailh,choc
-0
-2
-2
-keeblib
-OSHW-Symbol_6.7x6mm_mask
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-keeblib
-PG1350_socket_smdLed
-Kailh "Choc" PG1350 keyswitch socket mount
-kailh,choc
-0
-4
-4
-keeblib
-alps_sksn
-
-
-0
-4
-2
-keeblib
-cell_pads
-
-
-0
-2
-2
-keeblib
-chain_200mm
-
-
-0
-0
-0
-keeblib
-pg1353
-
-
-0
-4
-2
-keeblib
-pg1353_2u
-
-
-0
-4
-2
-keeblib
-pg1353_ec11rotSw
-Choc-v2 switch or EC11 Rotary_Encoder
-rotary encoder
-0
-10
-6
-keeblib
-pg1353_ec11rotSw_voidHoles
-Choc-v2 switch or EC11 Rotary_Encoder
-rotary encoder
-0
-0
-0
-keeblib
-pg1353_reversible
-
-
-0
-6
-2
-keeblib
-pg1353_reversible_2u
-
-
-0
-6
-2
-keeblib
-pg1353_voidHoles
-
-
-0
-0
-0
-keeblib
-switch_SSSS811101
-
-
-0
-7
-7
-keeblib
-trrs_5400174
-
-
-0
-5
-4
