@@ -1,4 +1,4 @@
-20911173622491026
+20914254873413908
 42keebs
 42Keebs-icon-10mm-Mask
 
@@ -196,6 +196,27 @@ Kailh_socket_PG1350_2u_Stabilizer_sw_cap
 2
 2
 42keebs
+Kailh_socket_PG1350_with_cutouts
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
+0
+2
+2
+42keebs
+Kailh_socket_PG1511+PG1350
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
+0
+4
+2
+42keebs
+Kailh_socket_PG1511+PG1350_with_cutouts
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
+0
+4
+2
+42keebs
 MX-Choc-1U-NoLED
 
 
@@ -237,13 +258,6 @@ Molex-216990_GCT-USB45xx_HRO-TYPE-C-31-M-13x-PiMicro
 0
 16
 13
-42keebs
-MountingHole_3.6mm_For_Standoff
-Mounting Hole 3.5mm
-mounting hole 3.5mm
-0
-1
-1
 42keebs
 MountingThroughHole_3.8mm_For_3mm_Standoff
 Mounting Hole 3.5mm
